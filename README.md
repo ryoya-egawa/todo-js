@@ -1,2 +1,3 @@
-# todo-js2
+# todo-js
 Created with CodeSandbox
+for study
